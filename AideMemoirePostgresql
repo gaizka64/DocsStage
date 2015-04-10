@@ -1,0 +1,5 @@
+Afficher toutes les tables d'une base
+# \dt
+
+Structure d'une table
+# \d <table>
